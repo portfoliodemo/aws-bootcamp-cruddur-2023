@@ -1,1 +1,3 @@
 # Week 0 — Billing and Architecture
+
+## [Cruddur Logical Diagram](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Flucid.app%2Flucidchart%2F3838bdad-f901-404a-ba4b-bd56f1b60162%2Fedit%3Fviewport_loc%3D-948%252C-431%252C3652%252C1700%252C0_0%26invitationId%3Dinv_2dcdce5d-74d9-4109-85b8-f54ad1582fdd&data=05%7C01%7C%7C3d69114fccac460d1eac08db162c7015%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638128152330077644%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vFfWWRXCPbmXTX1c7o%2BPjGEg0aJebvCiC6xgErL6%2FZ8%3D&reserved=0 "Cruddur Logical Diagram") - Lucid Charts
